@@ -1,0 +1,1 @@
+export default function SmartFeedbackLanding() { return <div>Landing Page</div>; }
